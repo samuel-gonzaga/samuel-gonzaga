@@ -22,7 +22,7 @@ Moro em Sorocaba SP, sou estudante de desenvolvimento de sistemas no [Senac Soro
 
 # Me encontre em:
 <p>
-    <a href="mailto:samuel.gonzaga@gmail.com?subject=Oportunidade de conexão&body=Olá! Gostei do seu perfil no GitHub, podemos conversar?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:samuel.gonzaga.dev@gmail.com?subject=Oportunidade de conexão&body=Olá! Gostei do seu perfil no GitHub, podemos conversar?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/samuel-henricky-3b9165290/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p> -->
