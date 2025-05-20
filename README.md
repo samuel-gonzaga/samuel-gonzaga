@@ -1,20 +1,20 @@
 # 👋 Olá, eu sou Samuel Gonzaga
-## Backend Developer | Python Enthusiast | Freelancer
+## Backend Developer | Python + Automação | Freelancer
 
 ## 🛠 Tecnologias & Habilidades
 
 ### Linguagens & Frameworks
 
-🐍 Python (Flask, FastAPI)
-🛢️ Banco de Dados (PostgreSQL, MySQL)
-📡 APIs RESTful
-🔧 Ferramentas DevOps (Docker, Git)
+- 🐍 Python (Flask, FastAPI)
+- 🛢️ Banco de Dados (PostgreSQL, MySQL)
+- 📡 APIs RESTful
+- 🔧 Ferramentas DevOps (Docker, Git)
 
 ### Freelance & Negócios
 
-💼 Focado em soluções escaláveis e eficientes
-📈 Desenvolvimento sob demanda para clientes
-🤝 Metodologias ágeis e comunicação clara
+- 💼 Focado em soluções escaláveis e eficientes
+- 📈 Desenvolvimento sob demanda para clientes
+- 🤝 Metodologias ágeis e comunicação clara
 
 ### 🚀 Projetos Destacados
 
