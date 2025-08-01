@@ -1,35 +1,74 @@
-# 👋 Olá, eu sou Samuel Gonzaga
-## Backend Developer | Python + Automação | Freelancer
+# Samuel Henricky — Desenvolvedor Backend Python
 
-## 🛠 Tecnologias & Habilidades
+Desenvolvedor Backend com foco em Python, APIs RESTful e automação. Tenho experiência prática em criação de sistemas, manipulação de dados e entrega de soluções que resolvem problemas reais. Estou em busca de uma oportunidade para evoluir como desenvolvedor, contribuindo com qualidade técnica e visão de produto.
 
-### Linguagens & Frameworks
+---
 
-- 🐍 Python (Flask, FastAPI)
-- 🛢️ Banco de Dados (PostgreSQL, MySQL)
-- 📡 APIs RESTful
-- 🔧 Ferramentas DevOps (Docker, Git)
+## 🧠 Habilidades Técnicas
 
-### Freelance & Negócios
+**Linguagens e Frameworks**  
+- Python (Flask, FastAPI, Django — em aplicação)  
+- SQL (PostgreSQL, MySQL, SQLite)
 
-- 💼 Focado em soluções escaláveis e eficientes
-- 📈 Desenvolvimento sob demanda para clientes
-- 🤝 Metodologias ágeis e comunicação clara
+**Desenvolvimento Web e APIs**  
+- APIs RESTful (criação e consumo)  
+- Integração com serviços externos (Google Drive, templates, etc.)
 
-### 🚀 Projetos Destacados
+**Ferramentas**  
+- Git e GitHub (branching, PRs, versionamento)  
+- Docker (ambientes isolados e deploys)  
+- Railway (deploy de aplicações)  
+- Pytest (testes automatizados — em progresso)
 
-- 🔹 `flask-auto-docs`: Gere documentos personalizados em segundos, com formulários automáticos e preenchimento inteligente - [Link](https://github.com/samuel-gonzaga/flask-auto-docs)
-- 🔹 `python-planilha-automatica` : Conecte facilmente suas planilhas evitando duplicidade e inconcistência de dados – [Link](https://github.com/samuel-gonzaga/python-planilha-automatica)
-- 🔹 `flask-crud` : Demonstração dos conhecimentos em Flask + PostgreSQL - [Link](https://github.com/samuel-gonzaga/flask-crud)
+**Metodologias**  
+- Scrum e Kanban (gestão de tarefas e versionamento ágil)
 
-### 📈 Estatísticas do GitHub
+---
 
-![api](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gonzaga&layout=compact&theme=dark)
+## 🧩 Projetos em Destaque
 
-### 📫 Contato & Freelance
+### [`flask-auto-docs`](https://github.com/samuel-gonzaga/flask-auto-docs)
+Sistema web para automação de documentos com templates dinâmicos. Foco em upload seguro, validação de dados, e geração de arquivos prontos para impressão.  
+**Stack:** Flask, Jinja, SQLAlchemy
 
-- 💻 Portfólio: [Link](https://samuel-gonzaga.github.io/portifolio/)
-- 📧 E-mail: samuel.gonzaga.dev@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/samuel-henricky
+### [`python-planilha-automatica`](https://github.com/samuel-gonzaga/python-planilha-automatica)
+Script de automação para tratamento e sincronização de planilhas com o Google Drive. Reduz tarefas manuais e garante padronização de dados.  
+**Stack:** Python, Google API
 
-🔥 Disponível para novos projetos! Vamos construir algo incrível juntos?
+### [`api_rest_django`](https://github.com/samuel-gonzaga/api_rest_django)
+API CRUD completa com autenticação, banco relacional e boas práticas REST. Aplicação pensada como base para sistemas internos.  
+**Stack:** Django, SQLite
+
+---
+
+## 🧠 Soft Skills
+
+- Resolução de Problemas e Autonomia  
+- Boa Comunicação e Clareza Técnica  
+- Proatividade e Aprendizado Rápido  
+- Experiência como Educador (comprovando didática e paciência)
+
+---
+
+## 📊 GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gonzaga&layout=compact&theme=dark)
+
+---
+
+## 📬 Contato
+
+- Email: **samuel.gonzaga.dev@gmail.com**  
+- LinkedIn: [linkedin.com/in/samuel-henricky](https://linkedin.com/in/samuel-henricky)  
+- Portfólio: [Aqui](https://samuel-gonzaga.lovable.app/)
+
+---
+
+**Atualmente disponível para oportunidades como Desenvolvedor Backend.**  
+Aberto a vagas CLT, estágio ou freela. Pronto para contribuir com código limpo, soluções escaláveis e mentalidade de produto.
+
+---
+
+## ⚙️ Melhorias Focadas
+
+> Em andamento: aprofundar conhecimento em Django, testes automatizados, Redis, Docker avançado e práticas de Clean Architecture.
