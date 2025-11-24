@@ -1,74 +1,75 @@
-# Samuel Henricky — Desenvolvedor Backend Python
+# 👋 Olá! Eu sou o Samuel Gonzaga
 
-Desenvolvedor Backend com foco em Python, APIs RESTful e automação. Tenho experiência prática em criação de sistemas, manipulação de dados e entrega de soluções que resolvem problemas reais. Estou em busca de uma oportunidade para evoluir como desenvolvedor, contribuindo com qualidade técnica e visão de produto.
+Desenvolvedor Fullstack (Django / Next.js) com experiência em landing pages otimizadas, aplicações educacionais, e sistemas administrativos para uso interno em equipes.
+Atualmente atuo como professor, onde também desenvolvo ferramentas e automações para melhorar fluxos de trabalho, otimizar processos e dar mais eficiência ao setor administrativo.
+
+Tenho como principais forças a organização, documentação clara, e a criação de soluções práticas, escaláveis e fáceis de manter.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🚀 Principais Habilidades
 
-**Linguagens e Frameworks**  
-- Python (Flask, FastAPI, Django — em aplicação)  
-- SQL (PostgreSQL, MySQL, SQLite)
+**Backend & Arquitetura**
 
-**Desenvolvimento Web e APIs**  
-- APIs RESTful (criação e consumo)  
-- Integração com serviços externos (Google Drive, templates, etc.)
+* Python • Django • Django Rest Framework
+* APIs REST • Autenticação • ORM • Serialização
+* Modelagem de dados • Postgres • SQLite
 
-**Ferramentas**  
-- Git e GitHub (branching, PRs, versionamento)  
-- Docker (ambientes isolados e deploys)  
-- Railway (deploy de aplicações)  
-- Pytest (testes automatizados — em progresso)
+**Frontend**
 
-**Metodologias**  
-- Scrum e Kanban (gestão de tarefas e versionamento ágil)
+* React • Next.js
+* Tailwind • HTML • CSS • Typescript
+
+**Ferramentas & Workflow**
+
+* Git/GitHub
+* Docker • Linux
+* Metodologias Ágeis (Scrum/Kanban)
 
 ---
 
 ## 🧩 Projetos em Destaque
 
-### [`flask-auto-docs`](https://github.com/samuel-gonzaga/flask-auto-docs)
-Sistema web para automação de documentos com templates dinâmicos. Foco em upload seguro, validação de dados, e geração de arquivos prontos para impressão.  
-**Stack:** Flask, Jinja, SQLAlchemy
+### **📌 Reserva de Salas – Sistema Completo**
 
-### [`python-planilha-automatica`](https://github.com/samuel-gonzaga/python-planilha-automatica)
-Script de automação para tratamento e sincronização de planilhas com o Google Drive. Reduz tarefas manuais e garante padronização de dados.  
-**Stack:** Python, Google API
+Sistema real com **CRUD completo**, filtros avançados, autenticação, calendário dinâmico e painel administrativo.
+Stack: Python + Flask + QtDesigner 5.
 
-### [`api_rest_django`](https://github.com/samuel-gonzaga/api_rest_django)
-API CRUD completa com autenticação, banco relacional e boas práticas REST. Aplicação pensada como base para sistemas internos.  
-**Stack:** Django, SQLite
+- Link: https://github.com/Senac-SOR-ADS/Mapa-de-Sala
 
----
+### **📌 FastDocs - Automação de Documentos**
 
-## 🧠 Soft Skills
+O Fast Docs é um sistema desenvolvido para automatizar a geração e o gerenciamento de documentos jurídicos em um escritório de advocacia real.
 
-- Resolução de Problemas e Autonomia  
-- Boa Comunicação e Clareza Técnica  
-- Proatividade e Aprendizado Rápido  
-- Experiência como Educador (comprovando didática e paciência)
+O projeto nasceu com o objetivo de otimizar processos internos, reduzir erros manuais e tornar o fluxo documental mais ágil e confiável.
+Atualmente, está em fase de refatoração, com foco em melhoria de arquitetura, performance e preparo para deploy profissional.
+
+- Link backend: https://github.com/samuel-gonzaga/fastDocs_backend
+- Link frontend: https://github.com/samuel-gonzaga/fastDocs_frontend
 
 ---
 
-## 📊 GitHub
+## 📚 O que estou estudando agora
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gonzaga&layout=compact&theme=dark)
-
----
-
-## 📬 Contato
-
-- Email: **samuel.gonzaga.dev@gmail.com**  
-- LinkedIn: [linkedin.com/in/samuel-henricky](https://linkedin.com/in/samuel-henricky)  
-- Portfólio: [Aqui](https://samuel-gonzaga.lovable.app/)
+* Arquitetura limpa aplicada a Django
+* Otimização de performance em sistemas web
+* Versionamento de banco e migrations avançadas
+* Integração de frontend com APIs reais (React/Next)
 
 ---
 
-**Atualmente disponível para oportunidades como Desenvolvedor Backend.**  
-Aberto a vagas CLT, estágio ou freela. Pronto para contribuir com código limpo, soluções escaláveis e mentalidade de produto.
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Fullstack ajudando a construir produtos reais, bem documentados, escaláveis e organizados — agregando tanto na parte técnica quanto na clareza dos processos.
 
 ---
 
-## ⚙️ Melhorias Focadas
+## 🤝 Entre em contato
 
-> Em andamento: aprofundar conhecimento em Django, testes automatizados, Redis, Docker avançado e práticas de Clean Architecture.
+* **LinkedIn:** [https://linkedin.com/in/](https://linkedin.com/in/samuel-henricky)
+* **E-mail:** samuel.gonzaga.dev@gmail.com
+
+---
+
+**Obrigado pela visita!** 🚀
+Sinta-se livre para explorar meus repositórios.
