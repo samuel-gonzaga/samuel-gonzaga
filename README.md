@@ -1,5 +1,5 @@
 # Samuel Gonzaga 🚀
-### Desenvolvedor FullStack | Python & React Specialist
+### Desenvolvedor FullStack em Formação | Buscando Primeira Oportunidade Profissional
 
 <div align="center">
   
@@ -8,18 +8,17 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor FullStack com foco em **Python (Django)** e **React/TypeScript**. Apaixonado por criar aplicações web completas, desde o backend até a interface do usuário, com especial interesse em **automação de processos**, **APIs RESTful** e **arquiteturas escaláveis**.
+Desenvolvedor em formação com foco em se tornar **Desenvolvedor FullStack**. Atualmente desenvolvendo projetos com **Python (Django)** e **React/TypeScript** para construir aplicações web completas. Tenho grande interesse em **automação de processos**, **APIs RESTful** e **boas práticas de desenvolvimento**.
 
-**🎯 Foco Atual:** Desenvolvimento de sistemas web completos com Django + React  
-**📚 Estudando:** Arquitetura de microserviços, Docker avançado, testes automatizados
+**🎯 Objetivo:** Ingressar no mercado como Desenvolvedor Júnior (Backend, Frontend ou FullStack)
+
+**📚 Em Aprendizado:** Testes automatizados, Docker, boas práticas de código e arquitetura de software
 
 ## 🛠️ Stack Tecnológica
 
@@ -139,13 +138,14 @@ Scripts de automação que otimizaram processos administrativos, reduzindo tempo
 **Senac Sorocaba** | 2023-2025  
 *Foco em desenvolvimento web full stack, banco de dados e arquitetura de software*
 
-## 🤝 Colaboração
+## 🤝 Buscando Oportunidades
 
-Estou aberto a:
-- **Projetos open source** relacionados a Python/Django ou React
-- **Code reviews** e contribuições em repositórios interessantes
-- **Discussões técnicas** sobre arquitetura e boas práticas
-- **Parcerias** para desenvolvimento de projetos inovadores
+Estou em busca da minha **primeira oportunidade profissional** como desenvolvedor. Aberto a:
+
+- **Estágios ou posições júnior** em desenvolvimento Backend, Frontend ou FullStack
+- **Projetos open source** onde possa aprender e contribuir
+- **Code reviews** para melhorar minhas habilidades
+- **Mentorias** e orientação de desenvolvedores mais experientes
 
 ## 📫 Conecte-se Comigo
 
@@ -161,9 +161,9 @@ Estou aberto a:
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  **"The only way to learn a new programming language is by writing programs in it."** - Dennis Ritchie
   
-  ⚡ **Sempre aprendendo** | 🚀 **Focado em resultados** | 💡 **Apaixonado por resolver problemas**
+  ⚡ **Em constante aprendizado** | 🎯 **Buscando primeira oportunidade** | 💡 **Motivado a crescer na área de desenvolvimento**
 
 </div>
 
