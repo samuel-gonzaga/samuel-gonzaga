@@ -1,75 +1,170 @@
-# 👋 Olá! Eu sou o Samuel Gonzaga
+# Samuel Gonzaga 🚀
+### Desenvolvedor FullStack | Python & React Specialist
 
-Desenvolvedor Fullstack (Django / Next.js) com experiência em landing pages otimizadas, aplicações educacionais, e sistemas administrativos para uso interno em equipes.
-Atualmente atuo como professor, onde também desenvolvo ferramentas e automações para melhorar fluxos de trabalho, otimizar processos e dar mais eficiência ao setor administrativo.
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-Tenho como principais forças a organização, documentação clara, e a criação de soluções práticas, escaláveis e fáceis de manter.
+</div>
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor FullStack com foco em **Python (Django)** e **React/TypeScript**. Apaixonado por criar aplicações web completas, desde o backend até a interface do usuário, com especial interesse em **automação de processos**, **APIs RESTful** e **arquiteturas escaláveis**.
+
+**🎯 Foco Atual:** Desenvolvimento de sistemas web completos com Django + React  
+**📚 Estudando:** Arquitetura de microserviços, Docker avançado, testes automatizados
+
+## 🛠️ Stack Tecnológica
+
+### **Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### **Ferramentas & DevOps**
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### **Testes**
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+## 🚀 Projetos em Destaque
+
+### **FastDocs** - Sistema de Automação Documental
+> **Tech Stack:** Django REST Framework, React, TypeScript, PostgreSQL, Tailwind CSS
+
+Sistema completo para automação de documentos jurídicos com backend em Python/Django e frontend moderno em React/TypeScript.
+
+**Principais funcionalidades:**
+- Upload e gerenciamento de templates `.docx`
+- Extração automática de placeholders
+- Geração de documentos personalizados
+- Módulo de calendário jurídico integrado
+- Autenticação JWT e controle de permissões
+
+**Repositório:** [github.com/samuel-gonzaga/fastdocs](https://github.com/samuel-gonzaga/fastdocs)
+
+### **Sistema de Reserva de Salas - Senac**
+> **Tech Stack:** Python, Flask, QtDesigner, MySQL, MVC
+
+Sistema completo desenvolvido como projeto educacional para substituir solução legada em MS Access.
+
+**Características:**
+- Arquitetura MVC bem definida
+- Modelagem completa de banco de dados
+- Interface gráfica com QtDesigner
+- Documentação técnica completa
+- Desenvolvido com práticas ágeis (Scrumban)
+
+### **The Crows - Plataforma Gamificada**
+> **Tech Stack:** PHP, JavaScript, MySQL, QR Code Integration
+
+Site interativo desenvolvido para evento GeekMundi do Senac, implementando caça ao tesouro com QR Codes.
+
+**Funcionalidades:**
+- Sistema de tracking de QR Codes
+- Dashboard de progresso em tempo real
+- Interface responsiva e intuitiva
+- Implementado em produção durante evento
+
+### **Automação de Processos com Python**
+> **Tech Stack:** Python, Google Drive API, Pandas, OpenPyXL
+
+Scripts de automação que otimizaram processos administrativos, reduzindo tempo de execução em **60%**.
+
+**Exemplos:**
+- Automação de envio de relatórios ao Google Drive
+- Atualização automática de planilhas Excel
+- Processamento de dados acadêmicos
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-gonzaga&show_icons=true&theme=radical&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gonzaga&layout=compact&theme=radical&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-gonzaga&theme=radical)
+
+</div>
+
+## 📚 Conhecimentos Técnicos
+
+### **Padrões de Arquitetura**
+- **MVC (Model-View-Controller)** - Implementação em Django e Flask
+- **Arquitetura Modular** - Separação de concerns em projetos React
+- **API RESTful** - Design de endpoints seguindo boas práticas
+- **Client-Server** - Aplicações completas com frontend/backend separados
+
+### **Boas Práticas**
+- **Versionamento com Git** - Commits semânticos, branching strategy
+- **Documentação** - READMEs completos, docstrings, Swagger/OpenAPI
+- **Testes Automatizados** - Unit tests, integration tests
+- **Code Quality** - Linting, formatting, clean code principles
+
+### **Metodologias**
+- **Scrumban** - Experiência em projetos acadêmicos
+- **Desenvolvimento Iterativo** - MVP → Feedback → Melhorias
+- **Pair Programming** - Colaboração em projetos em equipe
+
+## 🎓 Formação em Tecnologia
+
+### **Graduação em Análise e Desenvolvimento de Sistemas**
+**UniFECAF - EAD** | Em andamento  
+*Graduação com foco em fundamentos da computação, engenharia de software e gestão de projetos de TI*
+
+### **Técnico em Desenvolvimento de Sistemas**
+**Senac Sorocaba** | 2023-2025  
+*Foco em desenvolvimento web full stack, banco de dados e arquitetura de software*
+
+## 🤝 Colaboração
+
+Estou aberto a:
+- **Projetos open source** relacionados a Python/Django ou React
+- **Code reviews** e contribuições em repositórios interessantes
+- **Discussões técnicas** sobre arquitetura e boas práticas
+- **Parcerias** para desenvolvimento de projetos inovadores
+
+## 📫 Conecte-se Comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-henricky/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuel-gonzaga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.gonzaga@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Principais Habilidades
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  
+  ⚡ **Sempre aprendendo** | 🚀 **Focado em resultados** | 💡 **Apaixonado por resolver problemas**
 
-**Backend & Arquitetura**
+</div>
 
-* Python • Django • Django Rest Framework
-* APIs REST • Autenticação • ORM • Serialização
-* Modelagem de dados • Postgres • SQLite
-
-**Frontend**
-
-* React • Next.js
-* Tailwind • HTML • CSS • Typescript
-
-**Ferramentas & Workflow**
-
-* Git/GitHub
-* Docker • Linux
-* Metodologias Ágeis (Scrum/Kanban)
-
----
-
-## 🧩 Projetos em Destaque
-
-### **📌 Reserva de Salas – Sistema Completo**
-
-Sistema real com **CRUD completo**, filtros avançados, autenticação, calendário dinâmico e painel administrativo.
-Stack: Python + Flask + QtDesigner 5.
-
-- Link: https://github.com/Senac-SOR-ADS/Mapa-de-Sala
-
-### **📌 FastDocs - Automação de Documentos**
-
-O Fast Docs é um sistema desenvolvido para automatizar a geração e o gerenciamento de documentos jurídicos em um escritório de advocacia real.
-
-O projeto nasceu com o objetivo de otimizar processos internos, reduzir erros manuais e tornar o fluxo documental mais ágil e confiável.
-Atualmente, está em fase de refatoração, com foco em melhoria de arquitetura, performance e preparo para deploy profissional.
-
-- Link backend: https://github.com/samuel-gonzaga/fastDocs_backend
-- Link frontend: https://github.com/samuel-gonzaga/fastDocs_frontend
-
----
-
-## 📚 O que estou estudando agora
-
-* Arquitetura limpa aplicada a Django
-* Otimização de performance em sistemas web
-* Versionamento de banco e migrations avançadas
-* Integração de frontend com APIs reais (React/Next)
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Desenvolvedor Fullstack ajudando a construir produtos reais, bem documentados, escaláveis e organizados — agregando tanto na parte técnica quanto na clareza dos processos.
-
----
-
-## 🤝 Entre em contato
-
-* **LinkedIn:** [https://linkedin.com/in/](https://linkedin.com/in/samuel-henricky)
-* **E-mail:** samuel.gonzaga.dev@gmail.com
-
----
-
-**Obrigado pela visita!** 🚀
-Sinta-se livre para explorar meus repositórios.
+*README atualizado em Março 2026*
