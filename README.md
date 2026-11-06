@@ -1,4 +1,5 @@
-# Olá, sou o Samuel 👋
+# Samuel Gonzaga
+### Estagiário de QA | Testes exploratórios, bug reports e análise de causa raiz
 
 ## Sobre
 Sou estagiário de QA em uma empresa que desenvolve ERP, em Sorocaba (SP). Investigo um problema até conseguir explicar por que ele acontece, e não só que ele acontece: separo o que é erro, o que é regra de negócio e o que é uso incorreto, e sustento a conclusão com evidência.
@@ -17,9 +18,16 @@ Tenho curso técnico em Desenvolvimento de Sistemas (Senac) e curso Análise e D
 - **Gestão e documentação:** Azure DevOps, Git, Obsidian
 - **Banco de dados:** SQL Server, PostgreSQL, MySQL, SQLite
 - **Linguagens:** Python, TypeScript
+- **Testes (nos meus projetos):** Vitest, Playwright, ESLint
 - **Outros:** Docker (básico)
 
-## Projetos
-- **FastDocs:** sistema web de automação de documentos jurídicos, feito como freelance para um escritório de advocacia. Backend em Django REST Framework e PostgreSQL, frontend em React com TypeScript.
-  - [fastdocs_backend](https://github.com/samuel-gonzaga/fastdocs_backend)
-  - [fastDocs_frontend](https://github.com/samuel-gonzaga/fastDocs_frontend)
+## Projetos em destaque
+
+| Projeto | O que mostra | Links |
+|---|---|---|
+| **NeoCore Computer Lab** | Simulador web didático da arquitetura de um computador, com testes unitários (Vitest, 100% de cobertura do motor), teste E2E (Playwright), ESLint e matriz de rastreabilidade entre requisitos, código e relatório. Next.js e TypeScript. | [Repositório](https://github.com/samuel-gonzaga/Computer_Architecture_and_Organization) · [Aplicação](https://computerarch.vercel.app/) |
+| **FastDocs** | Sistema web de automação de documentos jurídicos, feito como freelance para um escritório de advocacia: API em Django REST Framework e PostgreSQL, interface em React e TypeScript. | [Visão geral](https://github.com/samuel-gonzaga/FastDocs) · [Backend](https://github.com/samuel-gonzaga/fastdocs_backend) · [Frontend](https://github.com/samuel-gonzaga/fastDocs_frontend) |
+| **Automatizador de Chamada para Escolas** | Automação em Python que sincroniza planilhas do Google Drive e gera listas de chamada, eliminando retrabalho manual. | [Repositório](https://github.com/samuel-gonzaga/Automatizador-de-Chamada-para-Escolas) |
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/samuel-henricky/)
